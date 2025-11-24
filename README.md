@@ -2,6 +2,23 @@
 
 A Todo app where tasks can be shared with other users and can be updated real time using MVVM + Riverpod.
 
+## Features
+
+*   Create, read, update, and delete tasks. Tasks has titles, detailed descriptions, and done/undone state.
+*   Tasks can be update instantly.
+*   Owners can share tasks with other users via email. Other users can view and edit shared tasks.
+*   Simple email-based setup to track ownership.
+*   The UI automatically adapts to different screen sizes using the `responsive_framework` lib.
+*   Add support for localization (l10n).
+
+## Tech Stack & Architecture
+
+*   Clean Architecture (Data, Domain, Presentation layers) with MVVM.
+*   Flutter Riverpod(using `AsyncNotifier` for reactive data loading).
+*   Firebase Firestore.
+*   GoRouter for navigation.
+*   Freezed for immutable data models.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
