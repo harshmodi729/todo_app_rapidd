@@ -19,6 +19,16 @@ A Todo app where tasks can be shared with other users and can be updated real ti
 *   GoRouter for navigation.
 *   Freezed for immutable data models.
 
+## Screenshots
+*   https://github.com/harshmodi729/todo_app_rapidd/blob/main/screenshots/Screenshot_1763986907.png
+*   https://github.com/harshmodi729/todo_app_rapidd/blob/main/screenshots/Screenshot_1763986914.png
+*   https://github.com/harshmodi729/todo_app_rapidd/blob/main/screenshots/Screenshot_1763986920.png
+*   https://github.com/harshmodi729/todo_app_rapidd/blob/main/screenshots/Screenshot_1763986924.png
+*   https://github.com/harshmodi729/todo_app_rapidd/blob/main/screenshots/Screenshot_1763986929.png
+*   https://github.com/harshmodi729/todo_app_rapidd/blob/main/screenshots/Screenshot_1763986933.png
+*   https://github.com/harshmodi729/todo_app_rapidd/blob/main/screenshots/Screenshot_1763986937.png
+*   https://github.com/harshmodi729/todo_app_rapidd/blob/main/screenshots/Screenshot_1763986941.png
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
